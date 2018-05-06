@@ -1,7 +1,9 @@
 # reflections-on-trusting-trust-go
 A talk about the Turing award lecture "Reflections on Trusting Trust" originally given by Ken Thompson. This talk was given in [Gophercon Singapore 2018](https://2018.gophercon.sg)
 
-Demo Go programs are in the codes directory. My slides are available on slideshare in the picture link below.
+Demo Go programs are in the `codes` directory. My slides and talk video are available in the picture links below.
+
+[![](http://img.youtube.com/vi/T82JttlJf60/0.jpg)](https://www.youtube.com/watch?v=T82JttlJf60)
 
 [![My slides on slideshare](first-slide.png)](https://www.slideshare.net/yeokm1/reflections-on-trusting-trust-for-go)
 
