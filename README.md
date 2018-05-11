@@ -19,3 +19,4 @@ References
 1. [Reflections on Trusting Trust paper source](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
 2. [Fully Countering Trust through Diverse Double Compiling paper source](http://www.dwheeler.com/trusting-trust/dissertation/wheeler-trusting-trust-ddc.pdf)
 3. I gave a C version of this talk before. You can see the code and slides [here](https://github.com/yeokm1/reflections-on-trusting-trust).
+4. I used [demo-magic](https://github.com/paxtonhare/demo-magic) to script the command-typing.
